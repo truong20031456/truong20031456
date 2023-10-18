@@ -1,4 +1,4 @@
-# 👋 Hello,
+# 👋 Hello, I'm Howl
 
 I am Cao Van Truong, known as Howl in the tech world. As a junior student at Greenwich University, I'm not just learning; I'm crafting my path into the ever-evolving realm of technology with style and passion. 🚀
 
