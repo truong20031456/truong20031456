@@ -139,7 +139,7 @@ AI question generation
 
 ## 🌐 Connect
 
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: [truongcv.dev@gmail.com](mailto:truongcv.dev@gmail.com)
 
 ---
 
