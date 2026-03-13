@@ -1,123 +1,150 @@
-<h1 align="center">
-  Hi 👋 I'm Cao Van Truong
-</h1>
+<h1 align="center">Hi 👋 I'm Cao Van Truong</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&lines=AI+Developer;Backend+Engineer;FastAPI+Developer;Microservices+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Web+Engineer;AI+Enthusiast;Building+Intelligent+Systems"/>
 </p>
-
----
-
-# 🚀 About Me
-
-💻 Software Development Student at **Greenwich University**
-
-🧠 Currently learning:
-
-- Artificial Intelligence
-- Microservices Architecture
-- System Design
-
-🔥 Building real world systems using modern technologies.
-
----
-
-# ⚡ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cs,js" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,redis" />
-</p>
-
-### DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git" />
-</p>
-
----
-
-# 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=truong20031456&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong20031456&layout=compact&theme=tokyonight"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=200&section=header&text=Python%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🧠 About Me
+
+```python
+class Developer:
+
+    name = "Cao Van Truong"
+    role = "Backend Web Developer"
+    main_language = "Python"
+
+    focus = [
+        "Backend Systems",
+        "FastAPI APIs",
+        "Microservices",
+        "Artificial Intelligence"
+    ]
+
+    goal = "Build intelligent web platforms powered by AI"
+```
+
+---
+
+## 🐍 Core Language
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=truong20031456&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python" height="80"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake Animation
+## ⚙️ Backend Stack
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,linux"/>
 </p>
+
+Technologies:
+
+* FastAPI
+* SQLAlchemy
+* PostgreSQL
+* Redis
+* RabbitMQ
+* Docker
 
 ---
 
-# 🚀 Featured Projects
+## 🤖 AI Direction
 
-### 🍔 Food & Fast
+Libraries I explore:
 
-Microservices food ordering platform
+* PyTorch
+* TensorFlow
+* Scikit-learn
+* Pandas
+* NumPy
 
-Tech stack:
+Goal:
 
-- FastAPI
-- PostgreSQL
-- Redis
-- Elasticsearch
-- Prometheus
-- Grafana
+```
+Web Systems + AI = Intelligent Platforms
+```
+
+---
+
+## 🚀 Projects
+
+### 🍔 Food & Fast Platform
+
+Microservices food ordering platform.
+
+Stack
+
+```
+FastAPI
+PostgreSQL
+Redis
+RabbitMQ
+Docker
+```
 
 ---
 
 ### 📚 Aptis Practice Website
 
-Platform for students to practice Aptis English test.
+Online platform helping students practice Aptis English test.
 
-Tech:
+Stack
 
-- Next.js
-- FastAPI
-- PostgreSQL
-
----
-
-# 🌍 Connect With Me
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn: coming soon
-
-🌐 Portfolio: coming soon
+```
+FastAPI
+PostgreSQL
+AI question generation
+```
 
 ---
 
-⭐ *"Code with passion. Build with purpose."*
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=truong20031456&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong20031456&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## ⚡ Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=truong20031456&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+⭐
+
+```
+Build web systems today.
+Build intelligent systems tomorrow.
+```
