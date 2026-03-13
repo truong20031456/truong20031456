@@ -105,16 +105,17 @@ AI question generation
 ```
 
 ---
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=truong20031456&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=truong20031456&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong20031456&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong20031456&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="98%" src="https://streak-stats.demolab.com?user=truong20031456&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
